@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://uptime-statusjys.com/'
+      url: 'https://status.org.cn/'
     },
     {
       text: 'GitHub',
