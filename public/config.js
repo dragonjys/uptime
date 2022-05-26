@@ -17,6 +17,7 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
     'u1638883-053e1560240f4f599afc90ad',
+    'u1638883-7b29f0ff83290eca08874d68',
   ],
 
   // 是否显示监测站点的链接
